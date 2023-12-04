@@ -2,6 +2,8 @@
 title: Home
 ---
 
+## About me
+
 Hi! I'm a computer science master's student at university La Sapienza in Rome with particular interest in machine learning.
 This website is a collection of personal notes of different topics:
 - [[Machine learning]]
@@ -17,10 +19,9 @@ This website is a collection of personal notes of different topics:
 </svg> [Jacopo Masia](https://www.linkedin.com/in/jacopo-masia-06a363183/)
 
 ## CV and Projects
-
 You can download my CV [here](https://add.link.to.cv).
 
 Here is a brief overview of some projects I have done:
-- 
-- 
+- 1
+- 2
 
